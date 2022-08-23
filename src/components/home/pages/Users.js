@@ -26,22 +26,6 @@ const Users = () => {
                             gap: "15px",
                         }}
                     >
-                        <Link
-                            to="/users/test"
-                            style={{ textDecoration: "none" }}
-                        >
-                            <div
-                                style={{
-                                    padding: "2px 5px",
-                                    borderRadius: "5px",
-                                    color: "darkblue",
-                                    border: "1px dotted rgba(0, 0, 139, 0.596)",
-                                    cursor: "pointer",
-                                }}
-                            >
-                                View
-                            </div>
-                        </Link>
                         <div
                             style={{
                                 padding: "2px 5px",
